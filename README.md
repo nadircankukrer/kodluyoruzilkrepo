@@ -23,3 +23,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 ## Project Preview
 ****![ProjectPreview](https://user-images.githubusercontent.com/115514788/195226589-c4f72831-eeed-4dc8-88a9-39b28b21e004.png)
+## Link
+***
+[Patika](www.patika.dev)
